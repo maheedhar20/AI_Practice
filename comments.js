@@ -1,4 +1,4 @@
-//create web server
+//Create web server
 import { Router } from 'express';
 var router = Router();
 import Comment from '../models/comment';
